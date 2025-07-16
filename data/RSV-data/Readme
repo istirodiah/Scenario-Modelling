@@ -1,0 +1,3 @@
+Notes:
+Reinfection of RSV is estimated by our model.
+In this case, we assume that the reinfection rate applies only to adults and the elderly, while reinfections in children are handled separately using a different set of assumptions.
